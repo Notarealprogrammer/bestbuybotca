@@ -30,9 +30,9 @@ https://github.com/TreborNamor/Agressive-Bestbuy-Bot
 
 ![Image of terminal](https://raw.githubusercontent.com/Notarealprogrammer/bestbuybotca/main/images/terminal.png)
 
-placeholder
-
 **4. Right click bestbuybot folder, and create new python file.**
+
+![Image of create-python](https://raw.githubusercontent.com/Notarealprogrammer/bestbuybotca/main/images/create-python.png)
 
 **5. Copy and paste bestbuy aggressive bot script in that python file you just created.**
 
