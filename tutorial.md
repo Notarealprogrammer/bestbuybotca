@@ -10,35 +10,35 @@ https://github.com/TreborNamor/Agressive-Bestbuy-Bot
 [PyCharm](https://www.jetbrains.com/pycharm/download)
 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 *2. Create a new project called bestbuybot and select create.*
-[Image]
+placeholder
 *3. Go to terminal and type:*
   1. `pip install beautifulsoup4`
   2. `pip install selenium`
   3. `pip install webdriver-manager`
   4. `pip install twilio`
- [Image]
- [Image]
- *4. Right click bestbuybot folder, and create new python file.*
- *5. Copy and paste bestbuy aggressive bot script in that python file you just created.*
- [Image]
- *6. Fill out the script with your personal information.*
- `* Twilio Information(optional)
+placeholder
+placeholer
+*4. Right click bestbuybot folder, and create new python file.*
+*5. Copy and paste bestbuy aggressive bot script in that python file you just created.*
+placeholder
+*6. Fill out the script with your personal information.*
+`* Twilio Information(optional)
 
 * CVV number
 
 * Add your Firefox profile. To find Firefox profile type "about:profiles" in firefox. It is the Root Directory path`
-[Image]
+placeholder
 *7. Prepping the account*
 Launch Firefox, and make sure to sign-in on a verified google account (any personal one will do). 
    *To get this to stick you will need to use a third-party website such as:
    `https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2f`
-[Image]
+placeholder
 Trust me its worth it just to sign up
 Sign into Best Buy and save your credentials, Credit Card information, Billing Address etc. 
 *8. To run bot, click run then select bestbuybot.*
-[Image]
+placeholder
 *9. Finalizing the bot
 In the same window that your bot opened, create a new tab and go to firefox options. Under Privacy & Security toggle on both save and autofill logins & passwords.
-[Image]
+placeholder
 In the extra tab go to bestbuy.ca and log-on to your account (everything should be autofilled if you've done this correctly).
 *10. Enjoy!*
