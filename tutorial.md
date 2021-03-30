@@ -10,6 +10,8 @@ https://github.com/TreborNamor/Agressive-Bestbuy-Bot
 
 `https://www.bestbuy.ca/en-ca/product/dynex-0-91m-3-ft-1080p-hdmi-cable-only-at-best-buy/14495335`
 
+###Instructions
+
 **1. Download Pycharm Community Edition & Firefox.**
 
 [PyCharm](https://www.jetbrains.com/pycharm/download)
