@@ -16,19 +16,28 @@ placeholder
   2. `pip install selenium`
   3. `pip install webdriver-manager`
   4. `pip install twilio`
+
 placeholder
+
 placeholder
+
 *4. Right click bestbuybot folder, and create new python file.*
+
 *5. Copy and paste bestbuy aggressive bot script in that python file you just created.*
+
 placeholder
+
 *6. Fill out the script with your personal information.*
 `* Twilio Information(optional)
 
 * CVV number
 
 * Add your Firefox profile.`
-To find Firefox profile type "about:profiles" in firefox. It is the Root Directory path`
+
+To find Firefox profile type "about:profiles" in firefox. It is the Root Directory path
+
 placeholder
+
 *7. Prepping the account*
 Launch Firefox, and make sure to sign-in on a verified google account (any personal one will do). 
    *To get this to stick you will need to use a third-party website such as:
