@@ -60,7 +60,7 @@ placeholder
 
 Trust me its worth it just to sign up
 
-Sign into Best Buy and save your credentials, Credit Card information, Billing Address etc. 
+Remember to Sign into Bestbuy.ca and save your credentials, Credit Card information, Billing Address etc. 
 
 **8. To run bot, click run then select bestbuybot.**
 
