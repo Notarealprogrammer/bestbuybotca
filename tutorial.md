@@ -73,8 +73,6 @@ Trust me its worth it just to sign up
 
 In the same window that your bot opened, create a new tab and go to firefox options. Under Privacy & Security toggle on both save and autofill logins & passwords. (This must be done in this step because these settings will reset each time you run the bot).
 
-placeholder
-
 ![Image of Autofill](https://raw.githubusercontent.com/Notarealprogrammer/bestbuybotca/main/images/autofill.png)
 
 In the extra tab go to bestbuy.ca and log-on to your account (everything should be autofilled if you've done this correctly).
