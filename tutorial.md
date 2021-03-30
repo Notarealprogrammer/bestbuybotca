@@ -3,6 +3,7 @@ Hello would be Canadian user. All credit goes to TreborNamor, all original code 
 https://github.com/TreborNamor/Agressive-Bestbuy-Bot
 ### Testing
 **You can test bot with this URL.**
+
 `https://www.bestbuy.ca/en-ca/search?path=soldandshippedby0enrchstring%253ABest%2BBuy&search=hdmi&sort=priceLowToHigh`
 
 **Do Not Use a URL like this. If you compare both URL's you'll see the difference. Make sure URL looks like the page above. Otherwise bot will not work.**
