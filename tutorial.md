@@ -63,7 +63,7 @@ Launch Firefox, and make sure to sign-in on a verified google account (any perso
 
 Trust me its worth it just to sign up
 
-Remember to Sign into Bestbuy.ca and save your credentials, Credit Card information, Billing Address etc. 
+*Remember to Sign into Bestbuy.ca and save your credentials, Credit Card information, Billing Address etc.*
 
 **8. To run bot, click run then select bestbuybot.**
 
