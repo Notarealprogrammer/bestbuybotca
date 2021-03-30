@@ -56,10 +56,13 @@ Launch Firefox, and make sure to sign-in on a verified google account (any perso
 placeholder
 Trust me its worth it just to sign up
 Sign into Best Buy and save your credentials, Credit Card information, Billing Address etc. 
+
 **8. To run bot, click run then select bestbuybot.**
 placeholder
+
 **9. Finalizing the bot**
 In the same window that your bot opened, create a new tab and go to firefox options. Under Privacy & Security toggle on both save and autofill logins & passwords.
 placeholder
 In the extra tab go to bestbuy.ca and log-on to your account (everything should be autofilled if you've done this correctly).
+
 **10. Enjoy!**
