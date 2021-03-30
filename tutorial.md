@@ -40,11 +40,13 @@ placeholder
 
 **6. Fill out the script with your personal information.**
 
-`* Twilio Information(optional)
+```
+* Twilio Information(optional)
 
 * CVV number
 
-* Add your Firefox profile.`
+* Add your Firefox profile.
+```
 
 To find Firefox profile type "about:profiles" in firefox. It is the Root Directory path
 
