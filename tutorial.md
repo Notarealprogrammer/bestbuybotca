@@ -20,7 +20,7 @@ https://github.com/TreborNamor/Agressive-Bestbuy-Bot
 
 **2. Create a new project called bestbuybot and select create.**
 
-placeholder
+![Image of Autofill](https://raw.githubusercontent.com/Notarealprogrammer/bestbuybotca/main/images/autofill.png)
 
 **3. Go to terminal and type:**
   1. `pip install beautifulsoup4`
