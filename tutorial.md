@@ -39,6 +39,7 @@ placeholder
 ![Image of Autofill](https://raw.githubusercontent.com/Notarealprogrammer/bestbuybotca/main/images/copy-paste.png)
 
 **6. Fill out the script with your personal information.**
+
 `* Twilio Information(optional)
 
 * CVV number
