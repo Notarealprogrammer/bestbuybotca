@@ -67,6 +67,7 @@ Sign into Best Buy and save your credentials, Credit Card information, Billing A
 placeholder
 
 **9. Finalizing the bot**
+
 In the same window that your bot opened, create a new tab and go to firefox options. Under Privacy & Security toggle on both save and autofill logins & passwords.
 placeholder
 
